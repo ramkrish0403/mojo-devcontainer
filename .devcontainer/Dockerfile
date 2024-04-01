@@ -15,3 +15,7 @@ RUN apt-get update -y && \
 
 USER vscode
   
+# RUN modular auth
+# RUN modular auth <auth_token>
+# RUN modular install max
+# RUN modular install mojo
