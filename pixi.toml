@@ -9,5 +9,4 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
-max = ">=24.5.0,<25"
-python = "==3.11"
+modular = ">=25.4.0,<26"
