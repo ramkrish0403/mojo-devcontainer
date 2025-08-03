@@ -15,7 +15,11 @@
             "extensions": [
                 "github.copilot",
                 "github.copilot-chat",
-                "modular-mojotools.vscode-mojo"
+                "modular-mojotools.vscode-mojo",
+                "ms-toolsai.jupyter",
+                "ms-python.python",
+                "ms-python.vscode-pylance",
+                "jjjermiah.pixi-vscode"
             ]
         }
     },

@@ -10,4 +10,5 @@ version = "0.1.0"
 
 [dependencies]
 modular = ">=25.4.0,<26"
-ipykernel = ">=6.29.5,<7"
+ipykernel = ">=6.30.0,<7"
+pip = ">=25.2,<26"
