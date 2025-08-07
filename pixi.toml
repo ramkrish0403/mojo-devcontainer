@@ -1,6 +1,6 @@
 [project]
 authors = ["ramkrish0403 <ramkrish0403@gmail.com>"]
-channels = ["conda-forge", "https://conda.modular.com/max", "https://repo.prefix.dev/mojo-community"]
+channels = ["conda-forge", "https://conda.modular.com/max"]
 description = "Add a short description here"
 name = "mojo"
 platforms = ["linux-64"]
@@ -9,6 +9,6 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
-modular = ">=25.4.0,<26"
+modular = ">=25.5.0,<26"
 ipykernel = ">=6.30.0,<7"
 pip = ">=25.2,<26"

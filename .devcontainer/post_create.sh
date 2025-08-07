@@ -9,4 +9,7 @@ git config --global --add safe.directory /workspaces/mojo-devcontainer
 echo "Installing project dependencies using Pixi..."
 pixi install
 
+# echo "Installing project dependencies using uv..."
+# uv sync
+
 echo "Post-create script finished successfully."

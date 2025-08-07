@@ -1,3 +1,10 @@
 {
-    "python.useEnvironmentsExtension": true
+    "python.useEnvironmentsExtension": true,
+    "jupyter.completionTriggerCharacters": {
+        "mojo": [
+            ".",
+            "(",
+            "["
+        ]
+    }
 }
